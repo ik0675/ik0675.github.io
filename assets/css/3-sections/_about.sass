@@ -2,28 +2,28 @@
 +MQ(S)
   .about-lock
     margin: auto
-    .face-img
-      +size(180px)
+    .ick-img
+      +size(50px)
       +display(flex)
       margin: auto
       border-radius: 60%
-      background: url(../img/face.JPG) no-repeat
+      background: url(../img/ick.JPG) no-repeat
 
 
-    .face1-img
+    .ick-img
       +size(180px)
       border-radius: 50%
-      background: url(../img/android.JPG)
+      background: url(../img/ick.JPG)
       margin: auto
     .flip-container
-      perspective: 1000
+      perspective: 300
       &:hover .flipper, &.hover .flipper
         transform: rotateY(180deg)
-      +size(200px)
+      +size(10px)
       border-radius: 50%
       +order(3)
     .front, .back
-      +size(200px)
+      +size(10px)
       border-radius: 50%
 
     .flipper
@@ -56,7 +56,7 @@
 
 +MQ(M)
   .about-lock
-    max-width: 680px
+    max-width: 100px
     +display(flex)
     margin: 0 auto
     +align-items(center)
@@ -94,7 +94,7 @@
 
 
 .blurb
-  max-width: 750px
+  max-width: 300px
   padding: 0 15px
   margin: 50px auto
   font-size: 22px
