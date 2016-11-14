@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog entry one"
-date:   2016-11-11 16:51:11
+date:   2016-11-11
 categories: blog
 ---
 
