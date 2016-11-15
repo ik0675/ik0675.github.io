@@ -3,6 +3,7 @@ layout: post
 title:  "Blog entry two"
 date:   2016-11-13 ~ 4
 categories: blog
+
 ---
 
 
