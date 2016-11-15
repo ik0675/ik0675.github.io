@@ -5,7 +5,7 @@ date:   2016-11-01
 categories: blog
 
 ---
-<!-- ![alt text](/assets/img/us.jpg) -->
+![alt text](/assets/img/us.jpg){: style="width:400px; height:200px; object-fit: cover;"}
 
 To be an active member of LAN, I have to create a capstone.
 My capstone project is creating a personal website that introduces me, myself and I.
